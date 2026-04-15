@@ -10,12 +10,11 @@
 
 ## 👨‍💻 About Me
 
-* 💼 Software Developer Intern
-* 🔭 Currently building **FinSight**
-* 🌱 Learning **Node.js, APIs & scalable backend architecture**
-* 💬 Ask me about **Java, Spring Boot, Backend Systems**
-* 🎯 Goal: Crack **top product-based companies (FAANG-level)**
-* ⚡ I believe in **projects > theory**
+*  Software Developer Intern
+*  Currently building **FinSight**
+*  Learning **Node.js, APIs & scalable backend architecture**
+*  Ask me about **Java, Spring Boot, Backend Systems**
+*  I believe in **projects > theory**
 
 ---
 
