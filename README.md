@@ -92,12 +92,13 @@
 ---
 
 
-## 📈 Contribution Graph
+## 📊 Advanced Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuldeepch13&theme=tokyo-night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuldeepch13&theme=tokyonight" />
 </p>
 
+---
 
 ## 🧠 Currently Learning
 
