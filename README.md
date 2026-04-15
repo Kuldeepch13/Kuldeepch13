@@ -92,11 +92,12 @@
 ---
 
 
-## 📊 Advanced Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuldeepch13&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kuldeepch13&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
 
 ---
 
