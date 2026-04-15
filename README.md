@@ -91,10 +91,10 @@
 
 ---
 
-## 📊 GitHub Overview
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuldeepch13&show_icons=true&theme=default" />
+  <img src="https://img.shields.io/badge/Backend-Java-blue" />
+  <img src="https://img.shields.io/badge/Spring-Boot-green" />
+  <img src="https://img.shields.io/badge/Node.js-Learning-yellow" />
 </p>
 
 ---
