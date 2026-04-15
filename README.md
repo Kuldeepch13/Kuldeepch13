@@ -91,13 +91,11 @@
 
 ---
 
-
-## 🏆 GitHub Trophies
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kuldeepch13&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kuldeepch13&show_icons=true&theme=default" />
 </p>
-
 
 ---
 
