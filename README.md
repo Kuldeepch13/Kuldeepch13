@@ -48,28 +48,33 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 FinSight (Finance Management App)
+### 🔹 Resume Builder (Full-Stack SaaS)
 
-* 📌 Full-stack application to track and analyze expenses
-* ⚙️ Built with: `Node.js`, `Express`, `MySQL`
-* 🔐 Authentication & REST APIs implemented
-* 📊 Helps users manage personal finances effectively
-
----
-
-### 🔹 To-Do List Application
-
-* 📌 Task management app with CRUD operations
-* ⚙️ Built using `Node.js`, `Express`, `MySQL`, `EJS`
-* 🧠 Focused on backend architecture & routing
+*  Tech: React, Spring Boot, JWT, Razorpay
+*  Built a full-stack platform to create and export professional resumes
+*  Implemented secure authentication & payment integration
+*  Improved resume creation efficiency by around 35%
+*  Optimized PDF generation → reduced latency by around 28%
 
 ---
 
-### 🔹 Student Management System (Java)
+### 🔹 AI Email Assistant (Chrome Extension)
 
-* 📌 Console-based project to manage student records
-* ⚙️ Built using `Core Java` & OOP concepts
-* 🎯 Strengthened understanding of OOP fundamentals
+* Tech: Java, Spring Boot, Gemini API, Chrome Extension
+* Built AI-powered email reply generator for Gmail workflows
+* Reduced average email response time by 60%
+* Integrated backend APIs for real-time smart responses
+* Ensured secure API handling & scalable architecture
+
+---
+
+### 🔹 Real-Time Messaging System
+
+* Tech: Spring Boot, WebSocket, React, MySQL
+* Built a real-time chat system supporting multi-user sessions
+* Improved message delivery speed by 30%
+* Reduced system latency by 32% with optimized backend pipelines
+* Designed efficient database schema for chat persistence
 
 ---
 
